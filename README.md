@@ -4,7 +4,7 @@ A React Native mobile application for discovering and navigating hiking trails i
 
 ## Features
 
-- **All Trails**: View 40+ trails from Hamilton's trail database with detailed information
+- **All Trails**: View 80+ trails from Hamilton's trail database with detailed information
 - **My Favourites**: Save and manage your favorite trails (includes 10 curated defaults)
 - **My Location**: Find your current GPS location on the map
 - **Map Type Toggle**: Switch between Standard and Satellite map views
