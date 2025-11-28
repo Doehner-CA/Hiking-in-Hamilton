@@ -52,3 +52,6 @@ HikinginHamilton/
 ## Permissions
 
 The app requires location permissions to show your current position on the map.
+
+## Screenshot
+![Screenshot](./Screenshot-HikinginHamilton.PNG)
