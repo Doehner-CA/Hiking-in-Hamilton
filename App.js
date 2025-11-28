@@ -1,4 +1,3 @@
-//StAuth10244: I Xiaodong Cao, 000911762 certify that this material is my original work. No other person's work has been used without due acknowledgement. I have not made my work available to anyone else.
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, TouchableOpacity, Alert } from 'react-native';
 import MapView, { Marker, Callout } from 'react-native-maps';
