@@ -55,3 +55,4 @@ The app requires location permissions to show your current position on the map.
 
 ## Screenshot
 ![Screenshot](./Screenshot-HikinginHamilton.PNG)
+![Screenshot](./Screenshot-HikinginHamilton2.PNG)
